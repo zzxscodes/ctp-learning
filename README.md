@@ -1,26 +1,25 @@
 reference
 https://www.zhihu.com/column/iQuant
 				
-1	https://zhuanlan.zhihu.com/p/23015492	c++	*****	
-2	https://zhuanlan.zhihu.com/p/23132875	c++		
-3	https://zhuanlan.zhihu.com/p/23202005	c++		
-4	https://zhuanlan.zhihu.com/p/23293035	c++		
-5	https://zhuanlan.zhihu.com/p/23574721	c#		
-6	https://zhuanlan.zhihu.com/p/24077002	c#		
-7	https://zhuanlan.zhihu.com/p/25357050	c++	*****	
+https://zhuanlan.zhihu.com/p/23015492	c++	
+https://zhuanlan.zhihu.com/p/23132875	c++		
+https://zhuanlan.zhihu.com/p/23202005	c++		
+https://zhuanlan.zhihu.com/p/23293035	c++		
+https://zhuanlan.zhihu.com/p/23574721	c++	
+https://zhuanlan.zhihu.com/p/24077002	c++		
+https://zhuanlan.zhihu.com/p/25357050	c++
 https://blog.csdn.net/baidu_37097818/category_12646495.html
 				
-1	https://blog.csdn.net/baidu_37097818/article/details/137823763			
-2	https://blog.csdn.net/baidu_37097818/article/details/137863824			
-3	https://blog.csdn.net/baidu_37097818/article/details/137864936			
-4	https://blog.csdn.net/baidu_37097818/article/details/137875711			
-5	https://blog.csdn.net/baidu_37097818/article/details/137913588			
-6	https://blog.csdn.net/baidu_37097818/article/details/137915441			
-7	https://blog.csdn.net/baidu_37097818/article/details/137919365			
-8	https://blog.csdn.net/baidu_37097818/article/details/138315903			
-9	https://blog.csdn.net/baidu_37097818/article/details/146186082			
-10	https://blog.csdn.net/baidu_37097818/article/details/148278951			
-* 1
+https://blog.csdn.net/baidu_37097818/article/details/137823763			
+https://blog.csdn.net/baidu_37097818/article/details/137863824			
+https://blog.csdn.net/baidu_37097818/article/details/137864936			
+https://blog.csdn.net/baidu_37097818/article/details/137875711			
+https://blog.csdn.net/baidu_37097818/article/details/137913588			
+https://blog.csdn.net/baidu_37097818/article/details/137915441			
+https://blog.csdn.net/baidu_37097818/article/details/137919365			
+https://blog.csdn.net/baidu_37097818/article/details/138315903			
+https://blog.csdn.net/baidu_37097818/article/details/146186082			
+https://blog.csdn.net/baidu_37097818/article/details/148278951			
 
 行情和交易API中的TradingDay交易日规则是怎样的？
 如何确定订单的唯一性？换而言之，如何撤单？
@@ -29,101 +28,34 @@ https://blog.csdn.net/baidu_37097818/category_12646495.html
 各个交易所的持仓的平仓顺序是什么？
 https://blog.csdn.net/a642960662/category_11641151.html
 				
-1	https://quantfabric.blog.csdn.net/article/details/126751263	hello ctp		
-2	https://quantfabric.blog.csdn.net/article/details/123028632	hello ctp		
-3	https://quantfabric.blog.csdn.net/article/details/123028659	hello ctp		
-4	https://quantfabric.blog.csdn.net/article/details/123028692	hello ctp		
-5	https://quantfabric.blog.csdn.net/article/details/123028727	hello ctp		
-6	https://quantfabric.blog.csdn.net/article/details/123028768	hello ctp		
-7	https://quantfabric.blog.csdn.net/article/details/123028794	hello ctp		
-8	https://quantfabric.blog.csdn.net/article/details/123028849	hello ctp		
-101	https://quantfabric.blog.csdn.net/article/details/123027836	it		
-102	https://quantfabric.blog.csdn.net/article/details/123027939	it		
-103	https://quantfabric.blog.csdn.net/article/details/123027981	it		
-104	https://quantfabric.blog.csdn.net/article/details/123027996	it		
-105	https://quantfabric.blog.csdn.net/article/details/123028074	it		
-106	https://quantfabric.blog.csdn.net/article/details/123028152	it		
-107	https://quantfabric.blog.csdn.net/article/details/123028207	it		
-108	https://quantfabric.blog.csdn.net/article/details/123028251	it		
-109	https://quantfabric.blog.csdn.net/article/details/123028354	it		
-110	https://quantfabric.blog.csdn.net/article/details/123028370	it		
-111	https://quantfabric.blog.csdn.net/article/details/123028405	it		
-112	https://quantfabric.blog.csdn.net/article/details/123028447	it		
-113	https://quantfabric.blog.csdn.net/article/details/123028479	it		
-* 1
+https://quantfabric.blog.csdn.net/article/details/126751263	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028632	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028659	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028692	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028727	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028768	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028794	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123028849	hello ctp		
+https://quantfabric.blog.csdn.net/article/details/123027836	it		
+https://quantfabric.blog.csdn.net/article/details/123027939	it		
+https://quantfabric.blog.csdn.net/article/details/123027981	it		
+https://quantfabric.blog.csdn.net/article/details/123027996	it		
+https://quantfabric.blog.csdn.net/article/details/123028074	it		
+https://quantfabric.blog.csdn.net/article/details/123028152	it		
+https://quantfabric.blog.csdn.net/article/details/123028207	it		
+https://quantfabric.blog.csdn.net/article/details/123028251	it		
+https://quantfabric.blog.csdn.net/article/details/123028354	it		
+https://quantfabric.blog.csdn.net/article/details/123028370	it		
+https://quantfabric.blog.csdn.net/article/details/123028405	it		
+https://quantfabric.blog.csdn.net/article/details/123028447	it		
+https://quantfabric.blog.csdn.net/article/details/123028479	it		
 
-四、订单类型
+订单类型
 1、LIMIT
 2、FAK 立即成交和撤销指令，订单在指定价价格成交，且剩余订单自动被交易所撤消
 3、FOK 立即全部成交否则自动撤销指令
 4、MARKET
 
-* 2
-
-一、CTP简介
-二、CTP架构
-三、CTP API
-
-* 3
-
-一、期货行情数据
-二、CTP行情
-三、Sina行情
-
-* 4
-
-一、CTP交易API简介
-二、CTP报单指令
-三、报单
-四、撤单
-五、CTP查询
-
-* 5
-
-一、CTP仓位
-二、仓位查询
-三、实时仓位计算
-
-* 6
-
-1、CTP API兼容
-2、行情订阅问题
-3、CTP行情tick数据
-4、TradingDay和ActionDay
-5、非交易时段收到行情
-6、组合合约行情
-7、当前切片成交量
-9、UpdateMillisec
-10、无效行情数据
-11、CTP网络连接问题
-12、撤单
-13、订单索引
-
-* 7
-
-一、REM API简介
-二、报单
-三、撤单
-四、REM查询
-
-* 8
-
-一、仓位查询
-二、实时仓位计算
-
-* 101 交易系统简介
-* 102 行情数据
-* 103 风控系统
-* 104 交易柜台系统
-* 105 华锐柜台简介
-* 106 HFT高频交易
-* 107 交易延迟分析
-* 108 低延迟网络构建
-* 101 Dark Pool技术
-* 101 FIX协议
-* 101 QuickFIX简介
-* 101 QuickFIX官方文档
-* 101 QuickFIX源码分析
 CTP6.3.15
 # ThostFtdcMdApi.h
 
