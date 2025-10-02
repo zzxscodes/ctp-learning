@@ -1,54 +1,94 @@
 reference
 https://www.zhihu.com/column/iQuant
 				
-https://zhuanlan.zhihu.com/p/23015492	c++	
-https://zhuanlan.zhihu.com/p/23132875	c++		
-https://zhuanlan.zhihu.com/p/23202005	c++		
-https://zhuanlan.zhihu.com/p/23293035	c++		
-https://zhuanlan.zhihu.com/p/23574721	c++	
-https://zhuanlan.zhihu.com/p/24077002	c++		
-https://zhuanlan.zhihu.com/p/25357050	c++
+https://zhuanlan.zhihu.com/p/23015492
+
+https://zhuanlan.zhihu.com/p/23132875
+
+https://zhuanlan.zhihu.com/p/23202005
+
+https://zhuanlan.zhihu.com/p/23293035
+
+https://zhuanlan.zhihu.com/p/23574721
+
+https://zhuanlan.zhihu.com/p/24077002
+
+https://zhuanlan.zhihu.com/p/25357050
+
 https://blog.csdn.net/baidu_37097818/category_12646495.html
 				
-https://blog.csdn.net/baidu_37097818/article/details/137823763			
-https://blog.csdn.net/baidu_37097818/article/details/137863824			
-https://blog.csdn.net/baidu_37097818/article/details/137864936			
-https://blog.csdn.net/baidu_37097818/article/details/137875711			
-https://blog.csdn.net/baidu_37097818/article/details/137913588			
-https://blog.csdn.net/baidu_37097818/article/details/137915441			
-https://blog.csdn.net/baidu_37097818/article/details/137919365			
-https://blog.csdn.net/baidu_37097818/article/details/138315903			
-https://blog.csdn.net/baidu_37097818/article/details/146186082			
-https://blog.csdn.net/baidu_37097818/article/details/148278951			
+https://blog.csdn.net/baidu_37097818/article/details/137823763
+
+https://blog.csdn.net/baidu_37097818/article/details/137863824
+
+https://blog.csdn.net/baidu_37097818/article/details/137864936
+
+https://blog.csdn.net/baidu_37097818/article/details/137875711
+
+https://blog.csdn.net/baidu_37097818/article/details/137913588
+
+https://blog.csdn.net/baidu_37097818/article/details/137915441
+
+https://blog.csdn.net/baidu_37097818/article/details/137919365
+
+https://blog.csdn.net/baidu_37097818/article/details/138315903
+
+https://blog.csdn.net/baidu_37097818/article/details/146186082
+
+https://blog.csdn.net/baidu_37097818/article/details/148278951
+
 
 行情和交易API中的TradingDay交易日规则是怎样的？
 如何确定订单的唯一性？换而言之，如何撤单？
 如何将成交和订单关联起来？
 查询合约手续费率为什么返回品种代码？
 各个交易所的持仓的平仓顺序是什么？
+
+
 https://blog.csdn.net/a642960662/category_11641151.html
 				
-https://quantfabric.blog.csdn.net/article/details/126751263	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028632	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028659	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028692	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028727	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028768	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028794	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123028849	hello ctp		
-https://quantfabric.blog.csdn.net/article/details/123027836	it		
-https://quantfabric.blog.csdn.net/article/details/123027939	it		
-https://quantfabric.blog.csdn.net/article/details/123027981	it		
-https://quantfabric.blog.csdn.net/article/details/123027996	it		
-https://quantfabric.blog.csdn.net/article/details/123028074	it		
-https://quantfabric.blog.csdn.net/article/details/123028152	it		
-https://quantfabric.blog.csdn.net/article/details/123028207	it		
-https://quantfabric.blog.csdn.net/article/details/123028251	it		
-https://quantfabric.blog.csdn.net/article/details/123028354	it		
-https://quantfabric.blog.csdn.net/article/details/123028370	it		
-https://quantfabric.blog.csdn.net/article/details/123028405	it		
-https://quantfabric.blog.csdn.net/article/details/123028447	it		
-https://quantfabric.blog.csdn.net/article/details/123028479	it		
+https://quantfabric.blog.csdn.net/article/details/126751263
+
+https://quantfabric.blog.csdn.net/article/details/123028632
+
+https://quantfabric.blog.csdn.net/article/details/123028659
+
+https://quantfabric.blog.csdn.net/article/details/123028692
+
+https://quantfabric.blog.csdn.net/article/details/123028727
+
+https://quantfabric.blog.csdn.net/article/details/123028768
+
+https://quantfabric.blog.csdn.net/article/details/123028794
+
+https://quantfabric.blog.csdn.net/article/details/123028849
+
+https://quantfabric.blog.csdn.net/article/details/123027836
+
+https://quantfabric.blog.csdn.net/article/details/123027939
+
+https://quantfabric.blog.csdn.net/article/details/123027981
+
+https://quantfabric.blog.csdn.net/article/details/123027996
+
+https://quantfabric.blog.csdn.net/article/details/123028074
+
+https://quantfabric.blog.csdn.net/article/details/123028152
+
+https://quantfabric.blog.csdn.net/article/details/123028207
+
+https://quantfabric.blog.csdn.net/article/details/123028251
+
+https://quantfabric.blog.csdn.net/article/details/123028354
+
+https://quantfabric.blog.csdn.net/article/details/123028370
+
+https://quantfabric.blog.csdn.net/article/details/123028405
+
+https://quantfabric.blog.csdn.net/article/details/123028447
+
+https://quantfabric.blog.csdn.net/article/details/123028479
+
 
 订单类型
 1、LIMIT
